@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Libraries/">
+    <Project Path="Panda.Application/Panda.Application.csproj" />
+    <Project Path="Panda.Domain/Panda.Domain.csproj" />
+    <Project Path="Panda.Infrastructure/Panda.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="Panda.Api.UnitTests/Panda.Api.UnitTests.csproj" Id="b49d6307-c2a3-42b6-a3f1-c6fd26fe136f" />
+  <Project Path="Panda.Api/Panda.Api.csproj" />
+</Solution>
